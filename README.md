@@ -27,7 +27,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile" alt="Typing SVG" />
 </h2>
 <p align="center">
-  <img src="https://count.getloli.com/@bes-js?name=bes-js&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="50%" />
+  <img src="https://count.getloli.com/@myzgar?name=myzgar&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="50%" />
 </p>
 <br><br><br><br>
 <!-- 📊 GitHub Stats -->
