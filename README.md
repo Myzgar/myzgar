@@ -38,3 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=myzgar&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150px" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myzgar&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+</p>
+
