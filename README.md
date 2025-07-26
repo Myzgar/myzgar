@@ -4,10 +4,10 @@
 </h1>
 <p align="center">
   <a href="https://discord.com/users/1001063456566415400">
-    <img src="https://lanyard.cnrad.dev/api/1001063456566415400?theme=dark" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1001063456566415400?theme=dark&showDisplayName=true" alt="Discord Presence" />
   </a>
     <a href="https://discord.com/users/222051092131741707">
-    <img src="https://lanyard.cnrad.dev/api/222051092131741707?theme=dark" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/222051092131741707?showDisplayName=true" alt="Discord Presence" />
   </a>
 </p>
 <br><br><br><br>
