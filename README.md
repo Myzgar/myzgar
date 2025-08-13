@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Discord" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <a href="https://discord.com/users/1001063456566415400">
-    <img src="https://lanyard.cnrad.dev/api/1001063456566415400?theme=dark&showDisplayName=true" alt="Discord Presence" />
+  <a href="https://discord.com/users/1285923136612597760">
+    <img src="https://lanyard.cnrad.dev/api/1285923136612597760?theme=dark&showDisplayName=true" alt="Discord Presence" />
   </a>
     <a href="https://discord.com/users/222051092131741707">
     <img src="https://lanyard.cnrad.dev/api/222051092131741707?showDisplayName=true" alt="Discord Presence" />
