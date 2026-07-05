@@ -33,15 +33,3 @@
   <img src="https://count.getloli.com/@myzgar?name=myzgar&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="50%" />
 </p>
 <br><br><br><br>
-<!-- 📊 GitHub Stats -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat" alt="Typing SVG" />
-</h1>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxtails.studio&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150px" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxtails.studio&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=60" />
-</p>
-
