@@ -39,9 +39,9 @@
 </h1>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myzgar&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxtails.studio&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150px" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=myzgar&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=60" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyxtails.studio&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=60" />
 </p>
 
