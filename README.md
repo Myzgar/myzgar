@@ -14,14 +14,15 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3vshfZ9byW)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nyxtails-studio)
-[![Steam](https://img.shields.io/badge/Steam-Follow%20Us-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/developer/Nyxtails%20Studio)
-[![GitHub](https://img.shields.io/badge/GitHub-nyxtails--studio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyxtails-studio)
-
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/nyxtails-studio?style=for-the-badge&label=Followers&color=00F5FF)
+[![Steam](https://img.shields.io/badge/Steam-Follow%20Us-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/developer/Nyxtails%20Studio)
+[![GitHub](https://img.shields.io/badge/GitHub-nyxtails--studio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyxtails-studio)
+![GitHub followers](https://img.shields.io/github/followers/nyxtails-studio?style=for-the-badge&label=Followers&color=685a82)
+<br>
 
 </div>
+<br>
 
 ---
 
@@ -35,6 +36,7 @@ We craft intense multiplayer games that emphasize teamwork, resource management,
 > *"Creating unforgettable moments in the dark."*
 
 </div>
+<br>
 
 ---
 
@@ -43,7 +45,8 @@ We craft intense multiplayer games that emphasize teamwork, resource management,
 ## 🚀 Current Project
 
 ### **Backrooms Manager - Together**
-
+<br>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895520/0d71d241977a872ce64d15cbc0733fba0e5c8ca4/header.jpg" width="300" alt="Backrooms Manager - Together"/>
 <br>
 
 **Release Date:** July 25, 2026  
@@ -85,7 +88,7 @@ A **6-player co-op scavenging and logistics** game set in the terrifying Backroo
 
 | Role                    | Member(s)           |
 |-------------------------|---------------------|
-| **Studio Lead**         | Nyxtails Studio     |
+| **Studio Lead**         | Nyxtails            |
 | **Creative Director**   | Nyxzen              |
 | **Technical Director**  | Voidtails           |
 
