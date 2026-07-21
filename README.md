@@ -72,11 +72,9 @@ A **6-player co-op scavenging and logistics** game set in the terrifying Backroo
 <div align="center">
 
 ## 🛠️ Our Tech Stack
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=steam,steamdb,davinciresolve,unrealengine,blender,spotify&theme=dark)](#)
 
-![Unreal Engine](https://skillicons.dev/icons?i=unreal)
-![Blender](https://skillicons.dev/icons?i=blender)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Steam](https://skillicons.dev/icons?i=spotify)
+
 
 </div>
 
